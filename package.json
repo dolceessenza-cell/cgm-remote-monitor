@@ -64,10 +64,10 @@
       ]
     }
   }
-  "engines": {
-    "node": "18.x",
-    "npm": "6.x"
-  },
+ "engines": { 
+"node": "18.x",    
+"npm": "6.x"    
+
   "dependencies": {
     "@babel/core": "^7.18.10",
     "@babel/preset-env": "^7.18.10",
